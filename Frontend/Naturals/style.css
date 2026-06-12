@@ -1,0 +1,77 @@
+body{
+    background-color: rgb(168, 211, 168);
+}
+
+.customTopNav {
+    background-color: #09AE54;
+    color: white;
+    padding: 3px 0;
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.customGreenBTN {
+    background-color: #09AE54;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 5px;
+    display: flex;
+    width: 100px;
+    margin-left: 10px;
+}
+
+.customSearchBar {
+    background-color: rgb(235, 233, 233);
+    width: 450px;
+    border-radius: 2px;
+    border: none;
+    padding: 13px;
+    margin-left: 20rem;
+}
+
+.customLogo {
+    margin-left: 45px;
+}
+
+.customNav {
+    margin-top: 1.5rem;
+    padding: 12px;
+    background-color: #212529;
+}
+
+.customNavLink {
+    margin-right: 35px;
+    color: white;
+    text-decoration: none;
+    font-size: 13.5px;
+}
+
+.customNavLink:hover {
+    color: #09AE54;
+}
+
+.customFooter{
+    margin-top:10rem;
+    padding: 3rem;
+    color: white;
+    background-color: #212529;
+}
+.customFooter h5{
+    color:rgb(232, 229, 229);
+}
+.verticalLine{
+    border-left: 2px solid white;
+}
+
+.customIframe{
+    margin-top: 2rem;
+    margin-left: 13.5rem;
+    width:75%;
+    height: 90%;
+    background-color: #09AE54;
+}
+.iFrame{
+    margin-top: 10rem;
+}
